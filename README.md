@@ -1,4 +1,4 @@
-# Building Ensemble of Trees beyond interpolation threshold for high-performance privacy-preserving ML 
+# Building Ensemble of Trees beyond Interpolation Threshold for High-performance Privacy-preserving ML 
 
 
 ## 🚀 Motivation
